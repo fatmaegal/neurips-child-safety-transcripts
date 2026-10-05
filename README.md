@@ -20,11 +20,11 @@ As noted in the manuscript, **all evaluation probes in this dataset are syntheti
 If you use these transcripts or build upon this evaluation framework in your research, please cite our workshop paper:
 
 ```bibtex
-@inproceedings{anonymous2026safety,
+@inproceedings{egal_taskin_2026_child_safety,
   title={Safety Systems Watch What the Model Says, Not What the Child Says},
-  author={Anonymous Authors},
+  author={Egal, Fatma and Taskin, R.},
   booktitle={NeurIPS 2026 Workshop on Child Safety in AI},
   year={2026}
 }
+
 ```
-*(Note: Remember to update the `author` field with your and your colleague's actual names once your camera-ready version is unblinded!)*
