@@ -1,4 +1,4 @@
-# NeurIPS-child-safety-transcripts
+# Passive Disclosure of External Harm: Child Safety Evaluation Transcripts
 Evaluation transcripts and model responses for our NeurIPS 2026 Workshop paper on Child Safety in AI.
 
 # Safety Systems Watch What the Model Says, Not What the Child Says
