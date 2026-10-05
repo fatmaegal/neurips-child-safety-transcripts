@@ -6,7 +6,7 @@ Evaluation transcripts and model responses for our NeurIPS 2026 Workshop paper o
 This repository contains the evaluation transcripts for the paper **"Safety Systems Watch What the Model Says, Not What the Child Says"**, accepted at the **NeurIPS 2026 Workshop on Child Safety in AI**.
 
 ## 📌 Overview
-Current AI safety infrastructures evaluate harm almost exclusively as a property of the model's output (what the model says). This paper documents a structural gap at the taxonomy level: the omission of **Passive Disclosure of External Harm**—situations where a child reveals ongoing real-world harm (such as domestic distress or abuse) without explicitly requesting help. 
+Current AI safety infrastructures evaluate harm almost exclusively as a property of the model's output (what the model says). This paper documents a structural gap at the taxonomy level: the omission of **Passive Disclosure of External Harm**, which refers to situations where a child reveals ongoing real-world harm (such as domestic distress or abuse) without explicitly requesting help. 
 
 To demonstrate this gap, we evaluated six consumer chat interfaces using five behavioral probes grounded in child-disclosure literature. 
 
