@@ -17,14 +17,6 @@ To demonstrate this gap, we evaluated six consumer chat interfaces using five be
 As noted in the manuscript, **all evaluation probes in this dataset are synthetic composites** designed by the authors. They do not derive from real child utterances or actual child-protection case files. They are intended solely for academic research, evaluation benchmarking, and safety transparency.
 
 ## ✍️ Citation
-If you use these transcripts or build upon this evaluation framework in your research, please cite our workshop paper:
+If you use these transcripts or build upon this evaluation framework in your research, please cite our workshop paper [Will be available soon]
 
-```bibtex
-@inproceedings{egal_taskin_2026_child_safety,
-  title={Safety Systems Watch What the Model Says, Not What the Child Says},
-  author={Egal, Fatma and Taskin, R.},
-  booktitle={NeurIPS 2026 Workshop on Child Safety in AI},
-  year={2026}
-}
 
-```
