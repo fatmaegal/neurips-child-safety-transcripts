@@ -11,7 +11,7 @@ Current AI safety infrastructures evaluate harm almost exclusively as a property
 To demonstrate this gap, we evaluated six consumer chat interfaces using five behavioral probes grounded in child-disclosure literature. 
 
 ## 📂 Repository Contents
-*   `complete_evaluation_transcripts.pdf`: The complete file containing the exact sequential prompt inputs, full model responses (from ChatGPT-5, Gemini 3.5 Flash Lite, Perplexity, Grok, DeepSeek V4, and Co-pilot), and their corresponding R-score evaluations across all 5 behavioral probes.
+*   `neurips-child-safety-transcripts`: The complete file containing the exact sequential prompt inputs, full model responses (from ChatGPT-5, Gemini 3.5 Flash Lite, Perplexity, Grok, DeepSeek V4, and Co-pilot), and their corresponding R-score evaluations across all 5 behavioral probes.
 
 ## ⚠️ Ethics Note
 As noted in the manuscript, **all evaluation probes in this dataset are synthetic composites** designed by the authors. They do not derive from real child utterances or actual child-protection case files. They are intended solely for academic research, evaluation benchmarking, and safety transparency.
